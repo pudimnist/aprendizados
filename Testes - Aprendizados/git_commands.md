@@ -1,5 +1,4 @@
 > Passo a Passo - GitHub (Terminal)
-
 1. (git init) = Iniciar o Repositório usando
 2. (git add. ) = Pegar todos os arquivos alterados e colocar em Stage
 3. (git commit -m "primeiro commit") = De fato o Primeiro Commit
@@ -20,3 +19,5 @@
 2. (git push origin pedro) = Vai jogar os arquivos do código da branch especificada para o repositório remoto
 3. (git pull origin pedro) = Vai pegar tudo que tem no repositório remoto e não tenho no meu projeto atual.
 4. (git fetch) = Synca todas as alterações de todas as branchs, remotas e locais
+
+> Problemas

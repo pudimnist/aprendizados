@@ -13,3 +13,4 @@
 6. (git restore "nome_arquivo") = Descarta todas as alterações do arquivo especificado
 7. (git branch) = Mostra a branch atual
 8. (git checkout -b nome_branch) = Criar nova branch com base na atual, copia as alterações para uma nova branch
+9. (git merge nome_branch) = Vai mesclar as alterações feitas na outra branch com a master

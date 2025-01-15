@@ -18,3 +18,4 @@
 > Criado o repositório no GitHub 
 1. (git remote add origin https://github.com/pudimnist/"nome_do_repositorio".git)
 2. (git push origin pedro) = Vai jogar os arquivos do código da branch especificada para o repositório remoto
+3. (git pull origin pedro) = Vai pegar tudo que tem no repositório remoto e não tenho no meu projeto atual.

@@ -20,4 +20,7 @@
 3. (git pull origin pedro) = Vai pegar tudo que tem no repositório remoto e não tenho no meu projeto atual.
 4. (git fetch) = Synca todas as alterações de todas as branchs, remotas e locais
 
-> Problemas
+> Problemas com Merge
+1. Evitar trabalhar na mesma linha/mesmo código
+2. Commits não-syncados
+3. Renomeação e exclusão de arquivos
